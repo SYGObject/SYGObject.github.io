@@ -9,11 +9,11 @@ baseurl: /
 
 # Website info
 title: Simple's Blog
-description: An Android Developer
-cover: assets/images/blog-cover.jpg
+description: 好好学习，天天向上！
+cover: assets/images/cover-blog.jpg
 # logo: assets/images/blog-icon.png
-logo_dark: assets/images/favicon.png
-favicon: assets/images/favicon.png
+# logo_dark: assets/images/favicon.png
+# favicon: assets/images/favicon.png
 production_url: https://blog.sunlab.club
 source_url: https://github.com/SYGObject/SYGObject.github.io
 
