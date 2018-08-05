@@ -70,7 +70,7 @@ username: SYGObject
 repo: SYGObject.github.io
 branch: master
 relative_source: ../SYGObject.github.io/
-destination: ../SYGObject.github.io/
+# destination: ../SYGObject.github.io/
 production_url: https://blog.sunlab.club
 source_url: https://github.com/SYGObject/SYGObject.github.io
 

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>好好学习，天天向上！</description>
+    <link>
+    http://localhost:4000</link>
+    
+      
+      <item>
+        <title>欢迎来到Simple的个人博客</title>
+        
+          <description>&lt;p&gt;别点开看了，还特么不知道写啥呢！&lt;/p&gt;
+</description>
+        
+        <pubDate>Sat, 04 Aug 2018 18:00:00 +0800</pubDate>
+        <link>
+        http://localhost:4000/welcome</link>
+        <guid isPermaLink="true">http://localhost:4000/welcome</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
